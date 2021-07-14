@@ -11,7 +11,7 @@ To conduct text analysis by means of Spacy library, to prepare our data for furt
 
 ## Result
 
-Using text embeddings, which is a mean vector of the token' vectors from each question, and KMeans model we successfully defined 30 clusters representing our data.
+Using text embeddings (a mean vector of the tokens' vectors from each question), and KMeans model we successfully defined 30 clusters representing our data.
 
 ## Libraries Used
 
