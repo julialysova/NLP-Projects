@@ -1,5 +1,5 @@
 # Text Analysis and Topic Modeling Project
-Project in Jupyter nbviewer: 
+Project in Jupyter nbviewer: https://nbviewer.jupyter.org/github/julialysova/NLP-Projects/blob/main/quora_clustering/topic_modeling.ipynb
 
 ## Data Description
 
